@@ -1,7 +1,5 @@
 # CGM-Product-Analysis
 
-Here’s a clean, professional **README.md** for your project, based on the notebook contents you uploaded.
-
 ---
 
 # **NLP Analysis of Consumer Posts on Diabetes CGM Devices**
