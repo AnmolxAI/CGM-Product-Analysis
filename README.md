@@ -14,12 +14,8 @@ The objective is to understand user pain points, common themes, frequent challen
 ## **📁 Repository Structure**
 
 ```
-├── data/
-│   ├── raw/                 # Raw dataset(s)
-│   ├── processed/           # Cleaned or intermediate outputs
-│
-├── notebooks/
-│   ├── Team5_NLP_Analysis_of_DCGM_Consumer_Posts.ipynb
+├── Diabetes Continuous Glucose Monitoring – Data Export.xlsx       #dataset
+├── Team5_NLP_Analysis_of_DCGM_Consumer_Posts.ipynb                 #Python Notebook
 │
 ├── src/
 │   ├── preprocessing.py     # Data cleaning utilities
